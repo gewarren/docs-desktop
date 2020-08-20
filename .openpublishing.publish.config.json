@@ -6,7 +6,10 @@
       "build_output_subfolder": "dotnet-desktop-guide",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
+      "moniker_ranges": [
+        "net-5.0",
+        "netframework-4.8"
+      ],
       "filemap_share_depots": [
         "VS.dotnet-api-docs"
       ],
